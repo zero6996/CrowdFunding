@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/crowdFunding-Admin-1-webui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/crowdFunding-Admin-1-webui/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/crowdFunding-Admin-1-webui/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/crowdFunding-Admin-2-component" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/crowdFunding-Admin-2-component/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/crowdFunding-Admin-2-component/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/crowdFunding-Admin-3-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/crowdFunding-Admin-3-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/crowdFunding-Admin-3-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/crowdFunding-Admin-4-entity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/crowdFunding-Admin-4-entity/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/crowdFunding-Admin-4-entity/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
