@@ -1,0 +1,36 @@
+target/
+!wrapper/*.jar
+!**/wrapper/*.jar
+!**/src/main/**
+!**/src/test/**
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+## .gitignore for IntelliJ
+.idea/
+*.iws
+*.iml
+*.ipr
+
+## .gitignore for Java
+*.class
+
+## .gitignore for VS Code
+.vscode/
+
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
